@@ -14,4 +14,7 @@ This is a fully responsive beautiful college website. It comprises of different 
 In this i have mentioned various courses that are offered in the college.
 It also have the hover effect with a smooth transition
 
+![Screenshot (438)](https://user-images.githubusercontent.com/58084456/192540456-073654c6-295f-40a6-a517-d67ec4114098.png)
+
+
 
