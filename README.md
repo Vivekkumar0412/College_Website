@@ -5,3 +5,6 @@ This is a fully responsive beautiful college website. It comprises of different 
 # It is the home page of website in which hover effect is also present
 ![Screenshot (435)](https://user-images.githubusercontent.com/58084456/192509163-1f5c5ba1-1d1c-4a78-a1cd-56d43bbf5ea1.png)
 
+![Screenshot (436)](https://user-images.githubusercontent.com/58084456/192509432-9826fd2c-0399-46ca-bf7e-91fda59f3cb5.png)
+
+
