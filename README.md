@@ -21,6 +21,10 @@ It also have the hover effect with a smooth transition
 
 ![Screenshot (440)](https://user-images.githubusercontent.com/58084456/192540510-09fb9bf8-b91c-4da4-ad4a-4fc7ab6d6dcd.png)
 
+# Our Global Campuses
+In this section we have shown our global presence.
+In this section also when we hover on the images there is very beautiful hover effect along with a smooth transition that makes it awesome.
+
 
 
 
