@@ -25,6 +25,8 @@ It also have the hover effect with a smooth transition
 In this section we have shown our global presence.
 In this section also when we hover on the images there is very beautiful hover effect along with a smooth transition that makes it awesome.
 
+![Screenshot (441)](https://user-images.githubusercontent.com/58084456/192542279-b4ee56dc-d4df-4b84-83ae-dea09b31e442.png)
+
 
 
 
