@@ -33,6 +33,8 @@ In this section also when we hover on the images there is very beautiful hover e
 
 ![Screenshot (444)](https://user-images.githubusercontent.com/58084456/192542328-10a74e62-26e3-4e1d-b191-fc0ea0c79ab5.png)
 
+#It is responsive.
+
 
 
 
