@@ -45,6 +45,16 @@ When we will click on the hamburger a side menu will be open which comprises all
 # In this also the beautiful hover effect is visisble.
 ![Screenshot (449)](https://user-images.githubusercontent.com/58084456/193420448-f1d18050-7396-4958-ab99-c8fd51e4aca6.png)
 
+![Screenshot (450)](https://user-images.githubusercontent.com/58084456/193420465-8b32c146-91be-4274-9c74-781b7fb9fdd2.png)
+
+![Screenshot (451)](https://user-images.githubusercontent.com/58084456/193420466-db0e04a4-4b33-45c8-9eb7-b5653a652c20.png)
+![Screenshot (452)](https://user-images.githubusercontent.com/58084456/193420468-a6cd0d67-7513-4514-8423-422b43234eec.png)
+![Screenshot (453)](https://user-images.githubusercontent.com/58084456/193420475-cad9383e-d225-4219-bb47-a972ac0a4f03.png)
+![Screenshot (454)](https://user-images.githubusercontent.com/58084456/193420483-45a4d650-d800-4cc0-90e5-fe7eb2d7d114.png)
+![Screenshot (455)](https://user-images.githubusercontent.com/58084456/193420489-8bd3f610-ef34-485f-a33d-86c929c95395.png)
+![Screenshot (456)](https://user-images.githubusercontent.com/58084456/193420495-d35aaea5-6de2-4ed0-92d8-c86be902d6e2.png)
+
+
 
 
 
