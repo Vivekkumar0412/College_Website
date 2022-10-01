@@ -39,6 +39,9 @@ A hamburger wil appear automatically when we will reduce the screen size.
 
 ![Screenshot (447)](https://user-images.githubusercontent.com/58084456/193420430-f2e8817b-548b-4367-ae94-b299a28e7246.png)
 
+When we will click on the hamburger a side menu will be open which comprises all the links from the navigation menu.
+![Screenshot (448)](https://user-images.githubusercontent.com/58084456/193420437-d917885f-d282-4ae1-957e-90ee98a84d4d.png)
+
 
 
 
