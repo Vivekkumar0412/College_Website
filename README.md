@@ -42,7 +42,7 @@ A hamburger wil appear automatically when we will reduce the screen size.
 When we will click on the hamburger a side menu will be open which comprises all the links from the navigation menu.
 ![Screenshot (448)](https://user-images.githubusercontent.com/58084456/193420437-d917885f-d282-4ae1-957e-90ee98a84d4d.png)
 
-In this also the beautiful hover effect is visisble.
+# In this also the beautiful hover effect is visisble.
 ![Screenshot (449)](https://user-images.githubusercontent.com/58084456/193420448-f1d18050-7396-4958-ab99-c8fd51e4aca6.png)
 
 
